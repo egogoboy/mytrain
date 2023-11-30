@@ -18,5 +18,6 @@ public class MainTask2 {
             case 4: System.out.print(" GB"); break;
             case 5: System.out.print(" TB"); break;
         }
+        in.close();
     }
 }
